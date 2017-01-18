@@ -9,6 +9,8 @@ the text in the text browser needs to be prettified according to these rules:
     
 An example can be seen in this image:
 
+![Example](https://raw.githubusercontent.com/mowijo/prettify/master/example.png)
+
 
 In the first MainWindow a chat message is entered. In the second the prettyfied message is shown.
 
